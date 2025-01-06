@@ -19,6 +19,8 @@ INSTALLED_APPS = [
     # frameworks
     'rest_framework',
     'rest_framework.authtoken',
+    'django.contrib.staticfiles',
+   'drf_yasg',
 
     # locale
     'users',
